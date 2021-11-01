@@ -4,6 +4,8 @@ dependencyResolutionManagement {
         google()
         mavenCentral()
         jcenter() // Warning: this repository is going to shut down soon
+        //em chen them doan code ve link maven o day
+        maven { url 'http://developer.huawei.com/repo/' }
     }
 }
 rootProject.name = "HuonglcKit"
